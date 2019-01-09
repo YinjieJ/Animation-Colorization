@@ -4,7 +4,7 @@
 Animation Image Colorization with Style Awareness
 
 
-##Reference
+## Reference
 
 
 S. Iizuka, E. Simo-Serra, and H. Ishikawa, “Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification,” ACM Transactions on Graphics (Proc. of SIGGRAPH 2016), vol. 35, no. 4, 2016.
